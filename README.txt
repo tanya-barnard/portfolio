@@ -1,0 +1,46 @@
+TANYA BARNARD — PROFESSIONAL PORTFOLIO V2
+
+This folder is ready for GitHub Pages.
+
+STRUCTURE
+---------
+index.html
+style.css
+assets/
+  tanya-profile.webp
+  assessment-patterns.png
+  assessment-strengths.png
+cases/
+  crm-redesign.html
+  crm-audit.html
+  workflow-automation.html
+  reporting.html
+  portfolio-site.html
+
+RECOMMENDED GITHUB UPDATE
+-------------------------
+Because you want a clean replacement:
+
+1. In your existing 'portfolio' repository, delete the old files/folders.
+2. Upload ALL contents of this folder, preserving:
+      assets/
+      cases/
+3. Commit directly to main.
+4. GitHub Pages should automatically redeploy from the main branch.
+5. Live site:
+   https://tanya-barnard.github.io/portfolio/
+
+IMPORTANT
+---------
+- The portfolio intentionally does NOT link to TB Ops Consulting.
+- Contact is via LinkedIn + GitHub for now, keeping it separate from the consultancy.
+- Only completed HubSpot certifications are listed.
+- The work-style percentages are third-party assessment results, not performance scores.
+- Public case studies intentionally omit confidential company/customer details.
+- The portfolio-site case transparently describes the build as AI-assisted development.
+
+TO CHANGE LATER
+---------------
+- Add a personal email once you decide which address to use.
+- Add anonymised workflow/dashboard screenshots if suitable for public sharing.
+- Add certificate badge images if desired.
